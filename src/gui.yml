@@ -57,7 +57,7 @@ gui:
       row: 4
       col: 7
     top_daily:
-      enabled: false
+      enabled: true
       item: "FILLED_MAP"
       name: "&aDaily leaderboard"
       lore:
@@ -65,7 +65,7 @@ gui:
       row: 4
       col: 6
     fill:
-      enabled: false
+      enabled: true
       item: "BLACK_STAINED_GLASS_PANE"
       name: ""
       lore: []
